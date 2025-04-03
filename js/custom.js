@@ -627,7 +627,7 @@ nice Select active
             youtube: {
                 index: 'youtube.com/', 
                 id: 'v=',
-                src: 'https://www.youtube.com/embed/wi4cOkFn_D8'
+                src: 'https://www.youtube.com/embed/2wfk5E7k2Cg'
             }
         }
     }

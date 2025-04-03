@@ -589,7 +589,7 @@ nice Select active
                 index: 'youtube.com/', 
                 id: 'v=',
                 
-                src: 'https://www.youtube.com/embed/1gR0Pl8A-QY?list=PLOm80_h6N-38GwYrDrd-sw66kWe3I2eub'
+                src: 'https://www.youtube.com/embed/2wfk5E7k2Cg'
             }
         }
     }
